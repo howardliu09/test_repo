@@ -1,5 +1,6 @@
 //howard add test 060400
 //howard add merged conflict 
+//howard add merged conflict master 
 module afifo_ctrl_typ1 (/*autoarg*/
 
 fifo_wr_w, fifo_rd_r, fifo_addr_w, fifo_addr_r, fifo_af_w,
